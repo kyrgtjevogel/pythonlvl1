@@ -1,0 +1,22 @@
+{
+    "personen": [
+      {
+        "naam": "Alice",
+        "leeftijd": 25,
+        "stad": "Amsterdam",
+        "telefoonnummer": "0123456789"
+      },
+      {
+        "naam": "Bob",
+        "leeftijd": 32,
+        "stad": "Rotterdam",
+         "telefoonnummer": "0123456789"
+      },
+      {
+        "naam": "Charlie",
+        "leeftijd": 42,
+        "stad": "Utrecht",
+         "telefoonnummer": "0123456789"
+      }
+    ]
+  }
